@@ -19,7 +19,7 @@ With experience in building scalable SaaS platforms, dashboards, and landing pag
 
 ### 📫 Connect With Me
 
-- Portfolio: [arsalanimran.com](https://arsalanimran.com) *(update link if needed)*
+- Portfolio: [arsalanimran.com](https://arsalanimran.com)
 - LinkedIn: [linkedin.com/in/arsalanit007](https://linkedin.com/in/arsalanit007)
 - Email: arsalandev007@gmail.com
 
