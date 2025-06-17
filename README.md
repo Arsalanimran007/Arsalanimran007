@@ -1,12 +1,28 @@
-# 👋 Hi, I’m Arsalan Imran (@Arsalanimran007)
+## 👋 Hi, I'm Arsalan Imran
 
-I'm a **creative front-end developer** skilled in crafting beautiful and interactive web experiences. I have deep experience with **HTML**, **CSS**, **JavaScript**, **React**, **Next.js**, and **Tailwind CSS**.
+I'm a passionate **Front-End Developer** and **UI/UX Designer**. I specialize in building clean, responsive web interfaces using **React.js**, **Next.js**, and modern UI frameworks like **Tailwind CSS** and **ShadCN UI**.
+
+With experience in building scalable SaaS platforms, dashboards, and landing pages, I focus on writing reusable, maintainable code and delivering smooth user experiences. I'm also comfortable translating Figma designs into pixel-perfect components.
+
+### 💻 Tech Stack
+
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript
+- **Styling:** Tailwind CSS, SCSS, Bootstrap, Material UI, Framer Motion
+- **Tools:** Figma, Git, VSCode, Postman
+- **Others:** Firebase, Supabase, REST APIs, Node.js (basic)
+
+### 📌 Current Status
+
+- 🔭 Currently improving my full-stack skills with backend integration.
+- 🌱 Learning more about serverless functions and authentication flows.
+- 💼 Open to freelance and remote job opportunities.
+
+### 📫 Connect With Me
+
+- Portfolio: [arsalanimran.com](https://arsalanimran.com) *(update link if needed)*
+- LinkedIn: [linkedin.com/in/arsalanit007](https://linkedin.com/in/arsalanit007)
+- Email: arsalandev007@gmail.com
 
 ---
 
-- 👀 Passionate about UI/UX design, performance optimization, and pixel-perfect layouts.
-- 🌱 Currently exploring animation libraries, design systems, and full-stack capabilities.
-- 💞️ Open to collaboration on web apps, landing pages, and creative frontend projects.
-- 📫 Reach me at: **arsalanimran7899@gmail.com** or [LinkedIn]([https://linkedin.com/in/arsalanimran](https://www.linkedin.com/in/arsalanit007/))
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I believe great design is invisible — but unforgettable ✨
+⭐️ *Thank you for visiting my GitHub! Feel free to explore my repositories and connect with me.*
