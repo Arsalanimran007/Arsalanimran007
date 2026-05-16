@@ -1,28 +1,29 @@
-## 👋 Hi, I'm Arsalan Imran
+# Hi, I'm Arsalan Imran 👋
 
-I'm a passionate **Front-End Developer** and **UI/UX Designer**. I specialize in building clean, responsive web interfaces using **React.js**, **Next.js**, and modern UI frameworks like **Tailwind CSS** and **ShadCN UI**.
+Fullstack Developer with 3+ years of experience shipping production-grade web applications across fintech, e-commerce, and SaaS. Specialized in React, Next.js, and TypeScript. Currently building for international clients at Brandigo.
 
-With experience in building scalable SaaS platforms, dashboards, and landing pages, I focus on writing reusable, maintainable code and delivering smooth user experiences. I'm also comfortable translating Figma designs into pixel-perfect components.
+## 🚀 Tech Stack
 
-### 💻 Tech Stack
+- **Frontend:** React.js, Next.js (App & Pages Router), TypeScript, JavaScript (ES6+)
+- **Styling:** Tailwind CSS, HTML5, CSS3, Framer Motion, React Hook Form
+- **State Management:** Redux Toolkit, TanStack Query, Zustand
+- **Backend & APIs:** Node.js, Next.js API Routes, RESTful APIs, Authentication (JWT, OAuth2)
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, Vercel, Netlify, Postman, Figma, VS Code
 
-- **Frontend:** React.js, Next.js, JavaScript, TypeScript
-- **Styling:** Tailwind CSS, SCSS, Bootstrap, Material UI, Framer Motion
-- **Tools:** Figma, Git, VSCode, Postman
-- **Others:** Firebase, Supabase, REST APIs, Node.js (basic)
+## 💼 Experience
 
-### 📌 Current Status
+- **Fullstack Developer @ Brandigo** (Sep 2025 – Present) — Building production-grade apps for international clients across the US and UK
+- **Fullstack Developer @ QisstPay** (Dec 2022 – Sep 2025) — Pakistan's first licensed BNPL platform, serving 500+ merchants including Samsung, Xiaomi, Sapphire, and Diesel
 
-- 🔭 Currently improving my full-stack skills with backend integration.
-- 🌱 Learning more about serverless functions and authentication flows.
-- 💼 Open to freelance and remote job opportunities.
+## 🔥 Featured Projects
 
-### 📫 Connect With Me
+- **[ByNext](https://bynext.co)** — US-facing laundry & dry cleaning SaaS serving 345,000+ customers across New York, New Jersey, DC Metro, and Los Angeles
+- **[Live Your Book](https://www.liveyourbook.com)** — Premium guided memoir platform turning life stories into printed hardcover books
+- **[Love2Laundry PK](https://www.love2laundry.pk)** — On-demand laundry service for the Pakistani market
 
-- Portfolio: [arsalanimran.com](https://arsalanimran.com)
-- LinkedIn: [linkedin.com/in/arsalanit007](https://linkedin.com/in/arsalanit007)
-- Email: arsalandev007@gmail.com
+## 📬 Connect With Me
 
----
-
-⭐️ *Thank you for visiting my GitHub! Feel free to explore my repositories and connect with me.*
+- 🌐 Portfolio: [arsalanimran.com](https://arsalanimran.com)
+- 💼 LinkedIn: [linkedin.com/in/arsalanit007](https://linkedin.com/in/arsalanit007)
+- 📧 Email: arsalandev007@gmail.com
