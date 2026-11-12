@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://arsalanimran.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=C6F432&center=true&vCenter=true&width=720&lines=Software+Engineer%2C+Full-Stack;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;BNPL+checkout+used+by+500%2B+merchants;Platforms+serving+345%2C000%2B+customers;Open+to+new+roles+%E2%80%94+remote+%26+hybrid" alt="Typing intro" />
+  <img src="./assets/typing.svg" alt="Software Engineer, Full-Stack — React · Next.js · TypeScript · Node.js — open to new roles" width="620" />
 </a>
 
 <br/>
@@ -17,8 +17,6 @@
 <a href="mailto:arsalandev007@gmail.com"><img src="https://img.shields.io/badge/Email-arsalandev007-c6f432?style=for-the-badge&labelColor=0b0b0b&logo=gmail&logoColor=c6f432" alt="Email" /></a>
 <a href="https://arsalanimran.com/ArsalanImran.pdf"><img src="https://img.shields.io/badge/Resume-PDF-c6f432?style=for-the-badge&labelColor=0b0b0b&logo=readdotcv&logoColor=c6f432" alt="Resume" /></a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Arsalanimran007&label=PROFILE+VIEWS&color=c6f432&style=flat-square&labelColor=0b0b0b" alt="Profile views" />
-<a href="https://github.com/Arsalanimran007?tab=followers"><img src="https://img.shields.io/github/followers/Arsalanimran007?label=FOLLOWERS&style=flat-square&color=c6f432&labelColor=0b0b0b" alt="Followers" /></a>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-c6f432?style=flat-square&labelColor=0b0b0b" alt="Open to work" />
 <img src="https://img.shields.io/badge/TIMEZONE-GMT%2B5%20%C2%B7%20UK%20%26%20US%20OVERLAP-c6f432?style=flat-square&labelColor=0b0b0b" alt="Timezone" />
 
@@ -92,14 +90,11 @@ Software engineer with **3+ years** building production web applications. Shippe
 
 ---
 
-### `(06)` &nbsp;GitHub activity
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arsalanimran007&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b0b0b&title_color=c6f432&icon_color=c6f432&text_color=f4f4f0&ring_color=c6f432&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Arsalanimran007&hide_border=true&background=0b0b0b&ring=c6f432&fire=c6f432&currStreakLabel=c6f432&sideLabels=f4f4f0&currStreakNum=f4f4f0&sideNums=f4f4f0&dates=8a8a82&stroke=262624" alt="GitHub streak" />
+<img width="100%" src="https://raw.githubusercontent.com/Arsalanimran007/Arsalanimran007/output/activity.svg" alt="GitHub activity — contributions, commits, repositories, pull requests and top languages" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arsalanimran007&bg_color=0b0b0b&color=f4f4f0&line=c6f432&point=f4f4f0&area=true&area_color=c6f432&hide_border=true&title_color=c6f432" alt="Contribution graph" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arsalanimran007&hide_border=true&background=141413&ring=c6f432&fire=c6f432&currStreakLabel=c6f432&sideLabels=f4f4f0&currStreakNum=f4f4f0&sideNums=f4f4f0&dates=8a8a82&stroke=262624&border_radius=18" alt="GitHub streak" />
 
 <img width="100%" src="https://raw.githubusercontent.com/Arsalanimran007/Arsalanimran007/output/snake.svg" alt="Contribution snake" />
 
