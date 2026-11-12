@@ -75,11 +75,11 @@ Software engineer with **3+ years** building production web applications. Shippe
 ### `(04)` &nbsp;Experience
 
 ```diff
-+ Full-Stack Developer · Brandigo (UK digital agency) · On-site, Karachi      Sep 2025 – Sep 2026
-    ByNext · Live Your Book · Love2Laundry PK — booking, scheduling & gift-purchase platforms
++ Full-Stack Developer · Brandigo · On-site, Karachi   Sep 2025 – Sep 2026
+    ByNext · Live Your Book · Love2Laundry PK
 
-+ Frontend Developer · QisstPay (BNPL, 500+ merchants) · Karachi              Dec 2022 – Jun 2025
-    Consumer checkout · real-time payment flows · merchant integrations · admin dashboards
++ Frontend Developer · QisstPay (BNPL) · Karachi       Dec 2022 – Jun 2025
+    Checkout · payment flows · merchant integrations · dashboards
 ```
 
 ### `(05)` &nbsp;How I work
